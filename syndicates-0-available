@@ -566,7 +566,7 @@
       "lotteryName": "lotoFacil",
       "price": 1000,
       "totalShares": 50,
-      "availableShares": 45,
+      "availableShares": 0,
       "syndicateName": "LF-JAA-106",
       "productId": 35146516517,
       "bets": 51,
