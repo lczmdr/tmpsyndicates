@@ -5,7 +5,7 @@
       "lotteryName": "lotoFacil",
       "price": 3800,
       "totalShares": 200,
-      "availableShares": 100,
+      "availableShares": 10,
       "syndicateName": "LF-NEC-00349",
       "productId": 35146516516,
       "bets": 18,
